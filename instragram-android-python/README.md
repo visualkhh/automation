@@ -17,6 +17,11 @@ instagram
 - adb devices
 - adb start-server
 
+## pytho
+- pip install -U pure-python-adb
+- pip install opencv-python
+- pip install numpy
+
 
 
 ## link
